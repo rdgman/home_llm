@@ -1,5 +1,7 @@
 # Running Your Own Generative AI on Minisforum: The 70B Parameter Manual
 
+![The Minisforum MS-S1 Max Local AI Poster: Llama 3 70B setup.](https://github.com/rdgman/home_llm/blob/main/Gemini_Generated_Image_a524gka524gka524.png)
+
 ## **Dedicated to the Minisforum MS-S1 Max: Your Local AI Workstation**
 
 This manual provides a step-by-step guide to installing and utilizing the powerful **Llama 3 70B Instruct** Large Language Model (LLM) on your Minisforum MS-S1 Max, leveraging its massive **128GB Unified Memory Architecture (UMA)** for superior, private performance.
