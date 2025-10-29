@@ -1,4 +1,5 @@
-________________________________________
+<pre>
+   ________________________________________
 You said:
 i have my own ohllma at home, just installed - how do i train it?
 Copilot said:
@@ -1212,3 +1213,5 @@ If you want, I can also add:
 •	a Kubernetes variant ready for your dual 10 GbE cluster.
 Want me to extend the ZIP with any of those right away?
 
+
+</pre>
